@@ -1,1 +1,6 @@
-# notes-react-component-lifecycle
+# Notas sobre React Component Lifecycle
+
+### 👉 Ver [todas las notas](https://github.com/undefinedschool/notes)
+
+## Intro
+
