@@ -5,15 +5,15 @@
 
 ## Contenido
 
-- [Intro]()
-- [Mounting]()
-  - [`constructor()`]()
-  - [`render()`]()
-  - [`componentDidMount()`]()
-- [Updating]()
-  - [`componentDidUpdate()`]()
-- [Unmounting]()
-  - [`componentWillUnmount()`]()
+- [Intro](https://github.com/undefinedschool/notes-react-component-lifecycle/#intro)
+- [Mounting](https://github.com/undefinedschool/notes-react-component-lifecycle/#mounting)
+  - [`constructor()`](https://github.com/undefinedschool/notes-react-component-lifecycle/#constructor)
+  - [`render()`](https://github.com/undefinedschool/notes-react-component-lifecycle/#render)
+  - [`componentDidMount()`](https://github.com/undefinedschool/notes-react-component-lifecycle/#componentdidmount)
+- [Updating](https://github.com/undefinedschool/notes-react-component-lifecycle/#updating)
+  - [`componentDidUpdate()`](https://github.com/undefinedschool/notes-react-component-lifecycle/#componentdidupdate)
+- [Unmounting](https://github.com/undefinedschool/notes-react-component-lifecycle/#unmounting)
+  - [`componentWillUnmount()`](https://github.com/undefinedschool/notes-react-component-lifecycle/#componentwillunmount)
 
 ---
 
