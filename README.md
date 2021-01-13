@@ -2,7 +2,6 @@
 
 ### 👉 Ver [todas las notas](https://github.com/undefinedschool/notes)
 
-
 ## Contenido
 
 - [Intro](https://github.com/undefinedschool/notes-react-component-lifecycle/#intro)
